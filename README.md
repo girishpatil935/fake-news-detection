@@ -417,6 +417,7 @@ GitHub: `https://github.com/girishpatil935`
 ------------------------------------------------------------------------
 
 ## License
+**Note : The project is still under training**
 
 This project is intended for educational and research purposes. Add an
 appropriate open-source license after checking the licenses of the
