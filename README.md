@@ -2,11 +2,10 @@
 
 > **GitHub Setup — Replace These Placeholders**
 >
-> - **GitHub Username:** `<YOUR-GITHUB-USERNAME>`
-> - **Repository Name:** `<YOUR-GITHUB-REPOSITORY>`
-> - **GitHub URL:** `https://github.com/<YOUR-GITHUB-USERNAME>/<YOUR-GITHUB-REPOSITORY>`
->
-> 🔴 **Before publishing:** Replace all three placeholders above with your actual GitHub username and repository name.
+> - **GitHub Username:** `girishpatil935`
+> - **Repository Name:** `https://github.com/girishpatil935/fake-news-detection`
+> - **GitHub URL:** `https://github.com/girishpatil935`
+
 
 
 A machine learning project for detecting whether a news statement is
